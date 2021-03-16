@@ -1,5 +1,6 @@
 // this is very dangerous do not run this on your host computer this may damage your computer seriously!
 // this was written by Maruf132
+// i will not be including the executable because it is so dangerous!
 #include <windows.h>
 
 const unsigned char MasterBootRecord[] = {};
